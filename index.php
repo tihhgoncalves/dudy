@@ -1,5 +1,12 @@
 <?
+
+ini_set('display_errors',1);
+ini_set('display_startup_erros',1);
+error_reporting(E_ALL);
+
 include('includes/autoload.php');
+
+
 
 //se for em branco, redireciona pro /home
 if(empty($_GET['url'])){
