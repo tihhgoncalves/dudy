@@ -1,2 +1,1 @@
-# dudy
-Dudy Manager
+# deepmanager
